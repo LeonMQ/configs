@@ -7,6 +7,7 @@ End goals:
   * R, 
   * Matlab (perhaps octave), 
   * lisp dialect (guile or e-lisp),
+  * HTML/CSS
   * LaTeX, 
   * neatroff (or groff), 
   * org (or vim wiki)
