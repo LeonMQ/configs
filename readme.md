@@ -1,6 +1,9 @@
 My config files, **everything is work in progress**.
+
 Vim user currently learning emacs.
+
 Should all work in linux and partially in windows 10.
+
 End goals: 
 * a guix config to make it easily shared
 * an emacs (or nvim) setup giving easy interaction with
